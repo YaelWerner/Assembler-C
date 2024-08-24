@@ -1,4 +1,4 @@
-Assembler Project
+#Assembler Project
 Final project for the course "Laboratory in C - 20465 (2024B)" at The Open University
 
 Overview
