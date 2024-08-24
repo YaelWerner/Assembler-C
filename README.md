@@ -1,5 +1,5 @@
 # Assembler Project
-## Final project for the course "Laboratory in C - 20465 (2024B)" at The Open University
+## Final project for the course Laboratory in C - 20465 (2024B) at The Open University
 
 ### Overview
 This C-based assembler converts assembly-like language into octal machine code. It operates in three stages: macro processing, first pass for symbol detection and initial encoding, and second pass for final encoding.
