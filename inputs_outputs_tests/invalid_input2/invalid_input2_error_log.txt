@@ -1,0 +1,28 @@
+working on invalid_input2
+start pre-preccesing, fetching macros
+starting first pass
+Error at line 1: not a saved word
+Error at line 3: too many / few arguments for this opcode
+Error at line 4: one or more operands are not declared currectly
+Error at line 6: the operand type does not match the opcode allowed types
+Error at line 7: too many / few arguments for this opcode
+Error at line 8: one or more operands are not declared currectly
+Error at line 9: one or more operands are not declared currectly
+Error at line 10: the operand type does not match the opcode allowed types
+Error at line 11: the operand type does not match the opcode allowed types
+Error at line 12: one or more operands are not declared currectly
+Error at line 14: the operand type does not match the opcode allowed types
+Error at line 15: one or more operands are not declared currectly
+Error at line 16: too many / few arguments for this opcode
+Error at line 19: the operand type does not match the opcode allowed types
+Error at line 20: the operand type does not match the opcode allowed types
+Error at line 21: the operand type does not match the opcode allowed types
+Error at line 23: the operand type does not match the opcode allowed types
+Error at line 24: the operand type does not match the opcode allowed types
+Error at line 26: the operand type does not match the opcode allowed types
+Error at line 27: the operand type does not match the opcode allowed types
+Error at line 28: one or more operands are not declared currectly
+Error at line 30: one or more operands are not declared currectly
+Error at line 31: too many / few arguments for this opcode
+Error at line -1: one or more errors occur in first-pass, moving to next file
+Done

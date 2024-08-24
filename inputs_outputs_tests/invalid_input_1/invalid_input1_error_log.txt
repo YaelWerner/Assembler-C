@@ -1,0 +1,14 @@
+working on invalid_input1
+start pre-preccesing, fetching macros
+Error at line 6: macro definition line is not non-whitespace characters after macro name
+Error at line 9: another word in 'endmacr' line
+Error at line 13: macro name is 'macr' or 'endmacr'
+Error at line 15: another word in 'endmacr' line
+Error at line 20: already macro with the same name || macro name is one of the 16 opcodes
+Error at line 23: another word in 'endmacr' line
+Error at line 27: already macro with the same name || macro name is one of the 16 opcodes
+Error at line 30: another word in 'endmacr' line
+Error at line 34: detected a too-long line
+Error at line 42: another word in 'endmacr' line
+Error at line 0: could not pre procced the as_file, moving to next file
+Done
